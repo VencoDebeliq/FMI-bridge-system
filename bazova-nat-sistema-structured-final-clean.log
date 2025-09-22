@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.9.1)  22 SEP 2025 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.9.1)  22 SEP 2025 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -800,66 +800,147 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count316
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip122
-\f@nch@O@elh=\skip123
-\f@nch@O@erh=\skip124
-\f@nch@O@olh=\skip125
-\f@nch@O@orh=\skip126
-\f@nch@O@elf=\skip127
-\f@nch@O@erf=\skip128
-\f@nch@O@olf=\skip129
-\f@nch@O@orf=\skip130
+))) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen269
+\ar@mcellbox=\box117
+\extrarowheight=\dimen270
+\NC@list=\toks39
+\extratabsurround=\skip122
+\backup@length=\skip123
+\ar@cellbox=\box118
 )
-LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 31.
-LaTeX Font Info:    No file T2Aptm.fd. on input line 31.
+\TX@col@width=\dimen271
+\TX@old@table=\dimen272
+\TX@old@col=\dimen273
+\TX@target=\dimen274
+\TX@delta=\dimen275
+\TX@cols=\count317
+\TX@ftn=\toks40
+) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box119
+\UL@hyphenbox=\box120
+\UL@skip=\skip124
+\UL@hook=\toks41
+\UL@height=\dimen276
+\UL@pe=\count318
+\UL@pixel=\dimen277
+\ULC@box=\box121
+Package: ulem 2019/11/18
+\ULdepth=\dimen278
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count319
+\Gm@cntv=\count320
+\c@Gm@tempcnt=\count321
+\Gm@bindingoffset=\dimen279
+\Gm@wd@mp=\dimen280
+\Gm@odd@mp=\dimen281
+\Gm@even@mp=\dimen282
+\Gm@layoutwidth=\dimen283
+\Gm@layoutheight=\dimen284
+\Gm@layouthoffset=\dimen285
+\Gm@layoutvoffset=\dimen286
+\Gm@dimlist=\toks42
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip125
+\f@nch@O@elh=\skip126
+\f@nch@O@erh=\skip127
+\f@nch@O@olh=\skip128
+\f@nch@O@orh=\skip129
+\f@nch@O@elf=\skip130
+\f@nch@O@erf=\skip131
+\f@nch@O@olf=\skip132
+\f@nch@O@orf=\skip133
+)
+LaTeX Font Info:    Trying to load font information for T2A+ptm on input line 39.
+LaTeX Font Info:    No file T2Aptm.fd. on input line 39.
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 31.
+(Font)              using `T2A/cmr/m/n' instead on input line 39.
 
 (./bazova-nat-sistema-structured-final-clean.aux)
 \openout1 = `bazova-nat-sistema-structured-final-clean.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count317
-\scratchdimen=\dimen269
-\scratchbox=\box117
-\nofMPsegments=\count318
-\nofMParguments=\count319
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count320
-\MPscratchDim=\dimen270
-\MPnumerator=\count321
-\makeMPintoPDFobject=\count322
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count322
+\scratchdimen=\dimen287
+\scratchbox=\box122
+\nofMPsegments=\count323
+\nofMParguments=\count324
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen288
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
+\everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 276.5608pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 452.9679pt, 72.26999pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=276.5608pt
+* \textheight=452.9679pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=8.0pt
+* \headsep=10.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=3.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 
 LaTeX Font Warning: Font shape `T2A/ptm/b/n' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 33.
+(Font)              using `T2A/ptm/m/n' instead on input line 41.
 
 (./bazova-nat-sistema-structured-final-clean.toc
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1.
@@ -888,21 +969,6 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}
-
-]
-Overfull \hbox (20.80005pt too wide) in paragraph at lines 28--28
- [] []\T2A/ptm/b/n/10 Двустранно анон-си-ра-не след от-кри-ва-не 1 в ма-жор ($\OT1/ztmcm/m/n/10 1[][]\OML/ztmcm/m/it/10 =\OT1/ztmcm/m/n/10 1[][])$ []  
- []
-
 )
 \tf@toc=\write4
 \openout4 = `bazova-nat-sistema-structured-final-clean.toc'.
@@ -915,8 +981,10 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[2{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (3.37637pt too wide) in paragraph at lines 52--53
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}
+
+]
+Overfull \hbox (2.81557pt too wide) in paragraph at lines 60--61
 []\T2A/ptm/b/n/10 Откриване 2$[][]$ е усло-вен си-лен анонс (един-с-т-ве-но-то фор-
  []
 
@@ -927,31 +995,23 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
+[2]
+
+Package fancyhdr Warning: \headheight is too small (8.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
+
 [3]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[4]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[5]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 134--135
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 144--145
  [] 
  []
 
@@ -962,28 +1022,17 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[6]
-Overfull \vbox (22.48262pt too high) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[7]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 139--140
+[4{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 149--150
 [][][] 
  []
 
 
 LaTeX Font Warning: Font shape `T2A/ptm/m/it' undefined
-(Font)              using `T2A/ptm/m/n' instead on input line 144.
+(Font)              using `T2A/ptm/m/n' instead on input line 154.
 
 
-Overfull \hbox (55.4pt too wide) in paragraph at lines 146--147
+Overfull \hbox (55.39998pt too wide) in paragraph at lines 156--157
 [][] 
  []
 
@@ -994,21 +1043,56 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[8]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 152.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 152.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 152.
-
-Overfull \hbox (1.85497pt too wide) in paragraph at lines 162--163
+[5]
+Overfull \hbox (1.29416pt too wide) in paragraph at lines 172--173
 []\T2A/ptm/b/n/10 2NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 11^^U12 HCP, из-ключ-
  []
 
 
-Overfull \hbox (1.85497pt too wide) in paragraph at lines 163--164
+Overfull \hbox (1.29416pt too wide) in paragraph at lines 173--174
 []\T2A/ptm/b/n/10 3NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 13^^U15 HCP, из-ключ-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (8.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
+
+[6]
+Overfull \hbox (1.29416pt too wide) in paragraph at lines 191--192
+[]\T2A/ptm/b/n/10 2NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 11^^U12 HCP, из-ключ-
+ []
+
+
+Overfull \hbox (1.29416pt too wide) in paragraph at lines 192--193
+[]\T2A/ptm/b/n/10 3NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 13^^U15 HCP, из-ключ-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (8.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (8.0pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
+
+[8]
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 268--269
+[][][][] 
+ []
+
+
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 289--290
+[][][][] 
  []
 
 
@@ -1019,13 +1103,8 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [9]
-Overfull \hbox (1.85497pt too wide) in paragraph at lines 180--181
-[]\T2A/ptm/b/n/10 2NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 11^^U12 HCP, из-ключ-
- []
-
-
-Overfull \hbox (1.85497pt too wide) in paragraph at lines 181--182
-[]\T2A/ptm/b/n/10 3NT = ба-лан-си-ра-но раз-пре-де-ле-ние, 13^^U15 HCP, из-ключ-
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 310--311
+[] 
  []
 
 
@@ -1036,6 +1115,10 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [10]
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 334--335
+[][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1044,6 +1127,13 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [11]
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 378.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 379.
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1051,9 +1141,9 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[12]
-Overfull \hbox (4.62592pt too wide) in paragraph at lines 237--238
-\T2A/ptm/m/it/10 Балансирано или по-лу-ба-лан-си-ра-но раз-пре-де-ле-ние и сто-пер(и)
+[12{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (54.6096pt too wide) in paragraph at lines 420--421
+[]\T2A/ptm/m/it/10 2 БК = по-ка-на за манш, 8-9 т.т., 5 $[][]$ (ба-лан-си-ра-но/полубалансирано
  []
 
 
@@ -1072,10 +1162,6 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [14]
-Overfull \hbox (23.35849pt too wide) in paragraph at lines 273--273
-[]\T2A/ptm/b/n/14.4 Развитие след от-кри-ва-не 1 в Ма-жор (1$[][]$/1$[][]$) 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1084,6 +1170,19 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [15]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 488.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Overfull \hbox (27.95763pt too wide) in paragraph at lines 488--489
+[]\T2A/ptm/m/it/10 Шесторен до-бър цвят (2 топ оньо-ра или 3 от 5-те: A,K,Q,J,10). 
+ []
+
+
+Overfull \hbox (0.59987pt too wide) in paragraph at lines 490--491
+[]\T2A/ptm/m/it/10 Обикновено без стра-нич-на чет-вор-ка в ма-жор и без стра-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1092,13 +1191,8 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [16]
-Overfull \hbox (23.35849pt too wide) in paragraph at lines 319--319
-[]\T2A/ptm/b/n/14.4 Развитие след от-кри-ва-не 1 в Ма-жор (1$[][]$/1$[][]$) 
- []
-
-
-Overfull \hbox (3.36261pt too wide) in paragraph at lines 321--321
-[]\T2A/ptm/b/n/12 Реанонси на от-кри-ва-щия (след от-го-вор 1$[][]$/1$[][]$/1NT) 
+Overfull \hbox (35.39998pt too wide) in paragraph at lines 533--534
+[][] 
  []
 
 
@@ -1109,12 +1203,9 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [17]
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 358.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 359.
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 573--574
+[][][][] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
@@ -1123,7 +1214,11 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[18{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[18]
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 608--609
+[][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1132,8 +1227,8 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [19]
-Overfull \hbox (51.14473pt too wide) in paragraph at lines 404--405
-[]\T2A/ptm/m/it/10 2NT = по-ка-на за манш, 8^^U9 т.т., 5$[][]$, ба-лан-си-ра-но/полубалансирано
+Overfull \hbox (35.39998pt too wide) in paragraph at lines 616--617
+[][] 
  []
 
 
@@ -1152,8 +1247,8 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [21]
-Overfull \hbox (0.32755pt too wide) in paragraph at lines 441--442
-\T2A/ptm/m/it/10 ли-ден цвят (6+ кар-ти в обя-ве-ния цвят) и шле-мо-ви идеи. 
+Overfull \hbox (5.567pt too wide) in paragraph at lines 696--696
+[]\T2A/ptm/b/n/14.4 Дефанзивно анон-си-ра-не (анон-си-ра-не след ка-
  []
 
 
@@ -1164,13 +1259,8 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [22]
-Overfull \hbox (28.51843pt too wide) in paragraph at lines 460--461
-[]\T2A/ptm/m/it/10 Шесторен до-бър цвят (2 топ оньо-ра или 3 от 5-те: A,K,Q,J,10). 
- []
-
-
-Overfull \hbox (1.16068pt too wide) in paragraph at lines 462--463
-[]\T2A/ptm/m/it/10 Обикновено без стра-нич-на чет-вор-ка в ма-жор и без стра-
+Overfull \hbox (1.21953pt too wide) in paragraph at lines 722--723
+[]\T2A/ptm/m/it/10 Вариант 3: Сил-на ба-лан-си-ра-на ръ-ка с 18--19+ HCP,
  []
 
 
@@ -1181,6 +1271,10 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [23]
+Overfull \hbox (21.79999pt too wide) in paragraph at lines 758--759
+[][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1197,6 +1291,10 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [25]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 818.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1205,6 +1303,10 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
 [26]
+Overfull \hbox (15.19292pt too wide) in paragraph at lines 882--885
+\T2A/ptm/m/it/10 кар-ти. Нис-ка^^Uвисока = че-тен брой (2/4/6...). Ви-со-ка^^Uниска
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (8.0pt): 
 (fancyhdr)                Make it at least 12.0pt, for example:
@@ -1220,244 +1322,24 @@ Package fancyhdr Warning: \headheight is too small (8.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
 
-[28]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[29]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[30]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[31]
-Overfull \hbox (0.18982pt too wide) in paragraph at lines 618--619
-[]\T2A/ptm/m/it/10 Нов цвят на 3+ ни-во = на-ту-рал-но, 5+ кар-ти, МФ (освен
- []
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[32]
-Overfull \hbox (26.78455pt too wide) in paragraph at lines 622--622
-[]\T2A/ptm/b/n/14.4 Развитие след от-кри-ва-не 1 в ма-жор (1$[][]$/1$[][]$) 
- []
-
-
-Overfull \hbox (11.8448pt too wide) in paragraph at lines 649--649
-[]\T2A/ptm/b/n/14.4 Дефанзивно анон-си-ра-не (анон-си-ра-не след
- []
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[33]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[34]
-Overfull \hbox (1.78033pt too wide) in paragraph at lines 671--672
-[]\T2A/ptm/m/it/10 Вариант 3: Сил-на ба-лан-си-ра-на ръ-ка с 18--19+ HCP,
- []
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[35]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[36]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[37]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[38]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[39]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 756.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 774--775
-[]\T2A/cmtt/m/n/10 AK\T2A/ptm/m/it/10 , \T2A/cmtt/m/n/10 AKx(x)\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 775--776
-[]\T2A/cmtt/m/n/10 K109(x)\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 776--777
-[]\T2A/cmtt/m/n/10 J109x\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 776--777
-\T2A/cmtt/m/n/10 J10x(x)\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--779
-[]\T2A/cmtt/m/n/10 Hxxxx\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--779
-\T2A/cmtt/m/n/10 Hxxxxx\T2A/ptm/m/it/10 , \T2A/cmtt/m/n/10 xx\T2A/ptm/m/it/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 779--780
-[]\T2A/cmtt/m/n/10 xxxxx\T2A/ptm/m/it/10 ,
- []
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 787--796
-\T2A/ptm/m/it/10 Q109x  QJ10x
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--796
-\T2A/ptm/m/it/10 QJx  J109x
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--796
-\T2A/ptm/m/it/10 109xx  10xx
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--796
-\T2A/ptm/m/it/10 Hxx  Hxxx
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 787--796
-\T2A/ptm/m/it/10 xxxx  xxxxx
- []
-
-
-Overfull \hbox (15.75372pt too wide) in paragraph at lines 809--812
-\T2A/ptm/m/it/10 кар-ти. Нис-ка^^Uвисока = че-тен брой (2/4/6...). Ви-со-ка^^Uниска
- []
-
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[42]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[43]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[44]
-
-Package fancyhdr Warning: \headheight is too small (8.0pt): 
-(fancyhdr)                Make it at least 12.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.0pt}.
-
-[45] (./bazova-nat-sistema-structured-final-clean.aux)
+[28] (./bazova-nat-sistema-structured-final-clean.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17618 strings out of 476034
- 347829 string characters out of 5792865
- 1858388 words of memory out of 6000000
- 37702 multiletter control sequences out of 15000+600000
- 550746 words of font info for 111 fonts, out of 8000000 for 9000
+ 18322 strings out of 476034
+ 358701 string characters out of 5792865
+ 1875388 words of memory out of 6000000
+ 38395 multiletter control sequences out of 15000+600000
+ 539042 words of font info for 87 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 102i,11n,104p,500b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,104p,500b,615s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on bazova-nat-sistema-structured-final-clean.pdf (45 pages, 191206 bytes).
+Output written on bazova-nat-sistema-structured-final-clean.pdf (28 pages, 181648 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 143 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
