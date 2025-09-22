@@ -29,14 +29,30 @@
 
 \pagestyle{fancy}
 \fancyhf{} % clear all header/footer fields
-\fancyhead[R]{Факултет по математика и информатика} % right header
+\fancyhead[R]{
+    \includegraphics[width=4mm, height=4mm]{images/su_logo_imagelarge.jpg}
+Факултет по математика и информатика} % right header
 \setlength{\headheight}{8pt} % height of header
 \setlength{\headsep}{10pt}    % space between header and text
-\fancyfoot[C]{\thepage}  
+\fancyfoot[C]{\thepage}
+
 
 %---------------------------------------------------------------------------%
 
 \begin{document}
+
+\begin{titlepage}
+    \centering
+    \includegraphics[width=0.3\textwidth]{images/su_logo_imagelarge.jpg} % optional logo
+    \vfill
+    {\Huge\bfseries Натурална система за начинаещи \par}
+    \vfill
+    \includegraphics[width=0.8\textwidth]{images/diamonds.png} % optional logo
+    \vfill
+    {\large bridgecup.vercel.app \par}
+\end{titlepage}
+
+\newpage
 
 \tableofcontents
 
